@@ -2,4 +2,4 @@
 
 The result of this app is this one to understand how picker works:
 
-![Alt Text](https://image.slidesharecdn.com/irmaster-150830120759-lva1-app6892/95/ir-47-638.jpg?cb=1498977512)
+![Alt Text](https://raw.githubusercontent.com/tonyvazgar/PickerExample/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-09-24%20at%2019.01.29.png)
